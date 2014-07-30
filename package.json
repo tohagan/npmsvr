@@ -1,6 +1,6 @@
 {
   "name": "npmsvr",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Simpler command line interface for `npm-server` registry simulator. Helps test NodeJS libs/apps prior to performing `npm publish`.",
   "keywords": ["npm", "registry", "npm-server"],
   "author": "tohagan",
