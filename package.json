@@ -1,0 +1,19 @@
+{
+  "name": "npmsvr",
+  "version": "0.0.1",
+  "description": "Simpler command line interface for npm-server",
+  "keywords": ["npm", "registry", "npm-server"],
+  "author": "tohagan",
+  "license": "MIT",
+  "main": "index.js",
+  "bin": {
+    "npmsvr": "./index.js"
+  },
+  "dependencies": {
+	"cli-config": "0.3.3",
+    "shelljs": "0.3.0"
+  },
+  "devDependencies": {},
+  "preferGlobal": true,
+  "engines": { "node": "*" }
+}
