@@ -51,7 +51,6 @@ For internal projects or pre-release to github you also might want to prevent ac
      $ npm publish app`
 
 ___
-Rather than register & deregister your local server, you can just use the localhost server for a one off install: 
-`
-    $ npm --registry=http://localhost:6070/ install app`
+Rather than register & deregister your local server, you can just use the localhost server for a one off install:
 
+   `$ npm --registry=http://localhost:6070/ install app`
