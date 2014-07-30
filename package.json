@@ -1,7 +1,7 @@
 {
   "name": "npmsvr",
   "version": "0.0.1",
-  "description": "Simpler command line interface for npm-server",
+  "description": "Simpler command line interface for `npm-server` registry simulator. Helps test NodeJS libs/apps prior to performing `npm publish`.",
   "keywords": ["npm", "registry", "npm-server"],
   "author": "tohagan",
   "license": "MIT",
@@ -13,6 +13,12 @@
 	"cli-config": "0.3.3",
     "shelljs": "0.3.0"
   },
+  "keywords": [
+	"testing",
+	"publish",
+	"nodejs",
+	"registry"
+  ],
   "devDependencies": {},
   "preferGlobal": true,
   "engines": { "node": "*" }
